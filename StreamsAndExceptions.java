@@ -10,8 +10,6 @@ import java.util.Scanner;
 /**
  * Programa para probar como se utilizan ficheros y excepciones en Java
  *
- * @author rgion
- * @version 1.2
  */
 public class StreamsAndExceptions {
 
